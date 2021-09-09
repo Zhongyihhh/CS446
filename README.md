@@ -12,9 +12,6 @@ The task of this course project is to find the location of gliomas as well as id
 # Algorithm
 3D U-net was implemented to tackle the challenge since this algorithm has been widely applied in dealing with medical image segmentation. Since the raw images might have different dimensions, preprocessing including crops was performed and all images used for the 3d U-Net were at the same image size (default: 128*128*128). Based on the development of the package MedicalZoo (https://github.com/black0017/MedicalZooPytorch), the 3D U-net algorithm was trained with the provided dataset and dice loss was selected as the evaluation metric. The training took place on Colab platform.
 
-# Usage
-
-
 # Performance
 - Achieved dice loss of 68%.
 
