@@ -1,5 +1,5 @@
 # CS446 Project: Segmentation of Gliomas from brain MRI
-by Zhongyi Liu
+
 
 # Project Description
 Gliomas are Brain tumors that involve glial cells in the brain or spinal cord. Gliomas are classified as grades I to IV, where the grades indicate severity. The grades include grade 1 (benign, curable with complete surgical resection), grade II (low grade, undergo surgical resection, radiotherapy/chemotherapy, grade III/IV (high-grade glioma’s), and grade IV (glioblastoma). The task is to identify the location of the tumor, and its classification into three groups; edema (indicates inflammation), enhancing (indicates part of the tumor with active growth), and the necrotic core (dead tissue, generally in the center). 
